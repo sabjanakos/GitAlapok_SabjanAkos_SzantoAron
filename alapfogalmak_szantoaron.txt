@@ -2,3 +2,4 @@ Repository: (repo): verezió követés alatt álló állományok halmaza.
 Fork:egy repo ekvivalens násolata, más hozzáférési jogsultságokkal.
 Branch: egy repo-nbelüli fejlesztési ág.
 commit: válatztotások atomi egysége.
+stage: az ahonnal egy commit készül
