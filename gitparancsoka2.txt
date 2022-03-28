@@ -1,0 +1,23 @@
+git init -> Repository létrehozása az aktuális könyvtárban való létrehozása.
+
+git clone -> Távoli elérésre való git létrehozása, amit majd klónozunk.
+
+git status -> Már létrejött git állapotára vagyunk kíváncsiak, akkor használjuk, állapot felmérésre.
+
+git add xyfile.txt -> Stageli a fájlokat, hozzáadja.
+
+git commit -> Stagelt fájlok commitolása.
+
+git log -> Grafikusan és szövegesen is megmutatja a gitet.
+
+git diff -> A munkakönyvtár, és a commit közti eltérést mutatja meg.
+
+git checkout master -> Másik branchre való váltás.
+
+git reset -> Változtatások eldobása.
+
+git push/pull/fetch -> Alap műveletek, az épp ideális branchre.
+
+git rebase -> Több git visszajátszása.
+
+git merge -> Két branch változtatását egyesíti.
